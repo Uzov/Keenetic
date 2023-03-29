@@ -1,3 +1,3 @@
 # Keenetic
-Some issues with Keenetic REST API configuration
-Пример скрипта для автоматического конфигурирования Keenetic 
+Пример Python-скрипта для автоматического конфигурирования Keenetic.
+В папке Radius находится модифицированная прошивка Entware c поддержкой Radius аутентификации на устройствах Keenetic (GIANT)
